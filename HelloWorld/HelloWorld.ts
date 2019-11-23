@@ -1,4 +1,4 @@
-function helloWorld(name: String) {
+function helloWorld(name: string) {
   return "Hello " + name;
 }
 
